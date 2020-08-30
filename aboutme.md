@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Alex Manochis. I am a student in the school of Applied Mathematics and Physics of National and Technical University of Athens. I like mathematics and coding. Especcially, I am interested in numerical linear algebra and computational geometry. Last but not least, I love to implement complex and challenging algorithms.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
