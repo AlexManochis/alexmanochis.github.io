@@ -42,10 +42,10 @@ My extra deliverables consist the following C++ implementations and the correspo
 My PRs are the followings:  
 
 1. [Accelerated billiard walk](https://github.com/GeomScale/volume_approximation/pull/92)  
-2. [Dikin, Vaidya, John walk](https://github.com/GeomScale/volume_approximation/pull/88)  
+2. [Dikin, Vaidya, John walk](https://github.com/GeomScale/volume_approximation/pull/88) (to be merged but ready to use)  
 3. [Adding two rounding methods](https://github.com/GeomScale/volume_approximation/pull/96)  
 4. [MCMC diagnostics](https://github.com/GeomScale/volume_approximation/pull/106)  
-5. [Marginal diagnostics and optimizations](https://github.com/GeomScale/volume_approximation/pull/108)  
+5. [Marginal diagnostics and optimizations](https://github.com/GeomScale/volume_approximation/pull/108) (to be merged but ready to use)  
 
 
 
