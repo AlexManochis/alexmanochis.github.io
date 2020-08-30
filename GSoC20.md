@@ -3,7 +3,7 @@ layout: page
 title: Google Summer of Code 2020
 ---
 
-## <span style="text-align:center;">Final Evaluation of my Google Summer of Code 2020 project  
+## <span style="text-align:center;">Final Evaluation of my GSoC20 project  
 
 ### <span style="text-align:center;">Organization: GeomScale  
 ### <span style="text-align:center;">Project: A comparative study of uniform high dimensional samplers  
@@ -19,7 +19,7 @@ You can read the proposal I submitted in Student application period [here](https
 Uniform sampling from convex polytopes in high dimensions is very useful in many scientific fields and applications. The package `volesti` is a `C++` software with an R interface in `cran` which provides 4 geometric random walks for uniform sampling from convex polytopes and three state-of-the-art algorithms for volume approximation being the first package providing such a variety of 
 options in geometric statistics. However, it is difficult to know when the Markov chain converges to the target distribution in order to stop sampling. MCMC Diagnostics are tools that can be used to check whether the quality of a sample generated with an MCMC algorithm is sufficient to provide an accurate approximation of the target distribution. The goals of this project were to provide: i) diagnostic tools for a random walk to check convergence to the target distribution, ii) efficient implementations of all the known geometric random walks for uniform sampling from convex bodies, that are not implemented in `volesti` and iii) an improved implementation for Billiard walk which is already implemented in `volesti`. The diagnostic tools would allow us to compare the mixing time of various random walks, which is a classical and hard problem in high dimensional statistics. Finally, it is my belief that these implementations will provide open source implementations to perform computations that are intractable till now in applications that require uniform sampling in high dimensions such as in computation biology (in thousands of dimensions) and multivariate integration (hundreds of dimensions). 
 
-### *My deliverables briefly presented  
+### My deliverables    
 
 I have completed all the goals of the coding project. Moreover, I have provided package `volesti` with several additional C++ implementations for high dimensional sampling, rounding convex polytopes and MCMC diagnostics. In particular, my deliverables consist of the following C++ implementations and the corresponding R interfaces:  
 
